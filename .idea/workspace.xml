@@ -22,10 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8929cd1c-6a29-48f9-91fc-b5a12caea404" name="Default Changelist" comment="">
+    <list default="true" id="8929cd1c-6a29-48f9-91fc-b5a12caea404" name="Default Changelist" comment="correções classe tutorial">
+      <change afterPath="$PROJECT_DIR$/home/templates/tutoriais.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/tutoriais.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/tutorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/tutorial.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
     </list>
@@ -85,6 +86,14 @@
       <updated>1589128698070</updated>
       <workItem from="1589133974585" duration="973000" />
     </task>
+    <task id="LOCAL-00001" summary="correções classe tutorial">
+      <created>1589138684058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589138684058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +113,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Novas alterações em tutoriais.html." />
+    <MESSAGE value="correções classe tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="correções classe tutorial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1589136607031">
