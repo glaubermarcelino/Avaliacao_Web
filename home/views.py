@@ -8,3 +8,10 @@ def home(request):
 
 def autor(request):
     return render(request, 'autor.html')
+
+def tutoriais(request):
+    listaTutoriais= Tutorial.objects.all()
+    context = {
+        'tutoriais': listaTutoriais
+    }
+    return render(request, 'tutoriais.html', context)
