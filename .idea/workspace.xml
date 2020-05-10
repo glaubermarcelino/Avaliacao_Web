@@ -24,7 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8929cd1c-6a29-48f9-91fc-b5a12caea404" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/tutoriais.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/tutoriais.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/tutoriais.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/tutorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,18 +95,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1589136607031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589136607031" />
     <state x="0" y="0" width="816" height="728" key="#Intentions" timestamp="1589130533667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
