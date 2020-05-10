@@ -23,12 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8929cd1c-6a29-48f9-91fc-b5a12caea404" name="Default Changelist" comment="correções classe tutorial">
-      <change afterPath="$PROJECT_DIR$/home/templates/tutoriais.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/templates/web1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/tutorial.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/tutoriais.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/tutoriais.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +64,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\projetos\python\Avaliacao_Web\home\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\angel\PycharmProjects\Avaliacao_Web\home\templates" />
       <recent name="C:\Users\angel\PycharmProjects\Avaliacao_Web" />
       <recent name="C:\Users\angel\PycharmProjects\Avaliacao_Web\Blog_Web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projetos\python\Avaliacao_Web\home\templates" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -134,10 +133,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589131627482" />
-    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1589131728169">
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1589140271981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589131728169" />
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589140271981" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1589132810017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
