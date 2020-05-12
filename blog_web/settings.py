@@ -26,7 +26,7 @@ SECRET_KEY = ')met7afqn_rk2z1nb!rnp9&jjy3d4=gxz9m1s@af62#^24&e87'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://supertutoriais.herokuapp.com/"]
 
 
 # Application definition
@@ -120,10 +120,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
-STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 STATIC_URL = '/static/'
-
+DEBUG = False
 MEDIA_ROOT = (
   os.path.join(BASE_DIR, '') #pasta media para abrigar os arquivos dos usuários
 )
