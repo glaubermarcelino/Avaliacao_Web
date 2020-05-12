@@ -2,15 +2,19 @@ from django.shortcuts import render
 
 
 # Create your views here.
-from home.models import Tutoriais
+from home.models import Tutoriais,Autor
 
 
-def home(request):
+def index(request):
     return render(request, 'home.html')
 
 
 def autor(request):
-    return render(request, 'autor.html')
+    listaAutores = Autor.objects.all()
+    context = {
+        'autores': listaAutores
+    }
+    return render(request, 'autor.html', context)
 
 def tutoriais(request):
     listaTutoriais= Tutoriais.objects.all()

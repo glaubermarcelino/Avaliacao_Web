@@ -119,3 +119,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+MEDIA_ROOT = (
+  os.path.join(BASE_DIR, '') #pasta media para abrigar os arquivos dos usuários
+)
+
+MEDIA_URL = '/media/' #endereço para acessar os arquivos

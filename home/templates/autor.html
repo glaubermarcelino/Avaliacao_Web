@@ -1,10 +1,29 @@
 <!DOCTYPE html>
+{% load static %}
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>Autor</title>
-</head>
+{% include 'header.html' %}
 <body>
+{% include 'navigation.html' %}
 <p1>Autor</p1>
+
+<table class="table-responsive table-bordered">
+    <thead>
+    <tr>
+        <th>Nome</th>
+        <th>E-mail</th>
+        <th>Telefone</th>
+    </tr>
+    </thead>
+    <tbody>
+{% for autor in autores%}
+    <tr>
+        <td>{{autor.nome}}</td>
+        <td>{{autor.email}}</td>
+        <td>{{autor.telefone}}</td>
+    </tr>
+ {% endfor%}
+    </tbody>
+</table>
+{% include 'footer.html' %}
 </body>
 </html>
